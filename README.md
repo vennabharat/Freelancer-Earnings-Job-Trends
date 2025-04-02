@@ -13,4 +13,4 @@ This dataset can be used for:
 - Forecasting future demand for specific skills
 - Helping job seekers make informed career decisions
 
-Go to the Freelancer_Earnings_and_Job_Trends_Dataset.docx file for more details.
+Go to the Freelancer_Earnings_and_Job_Trends_Dataset.pdf file for more details.
