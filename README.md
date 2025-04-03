@@ -11,6 +11,6 @@ This dataset can be used for:
 - Identifying emerging job trends in the gig economy
 - Comparing earnings across different freelance categories
 - Forecasting future demand for specific skills
-- Helping job seekers make informed career decisions
+- Helping job seekers make informed career decisions.
 
 Go to the Freelancer_Earnings_and_Job_Trends_Dataset.pdf file for more details.
